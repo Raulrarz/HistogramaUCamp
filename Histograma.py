@@ -1,5 +1,5 @@
 #Será la simulación de una máquina de Galton de 3000 canicas. 
-#En total tendrá 12 niveles de obstáculos -deberás decidir si va a caer a un lado o al otro 12 veces
+#En total tendrá 12 niveles de obstáculos 
 #El resultado final será un histograma que represente la cantidad de canicas en cada contenedor, como el siguiente -Se coloca nombre a los ejes y un título al gráfico.
 #Deberás emplear dos funciones, una para calcular los resultados de las canicas y la segunda para la graficación del histograma. 
 
