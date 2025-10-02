@@ -31,7 +31,7 @@ def graficar_histograma(contenedores):
     '''
     Grafica un histograma con los resultados de la simulación de canicas en cada contenedor
     '''
-    plt.bar(range(len(contenedores)), contenedores, color = 'blue') #Grafico de barras en color azul 
+    plt.bar(range(len(contenedores)), contenedores, color = 'blue', width=1.0) #Grafico de barras en color azul 
     plt.xlabel('Posicion final') #Llamamos el eje de x 
     plt.ylabel('Cantidad de canicas') #Llamamos el eje y
     plt.title('Simulacion de la maquina de Galton') #Titulo del grafico 
